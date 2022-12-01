@@ -41,4 +41,10 @@
     font-size: 1.4em;
 }
 
+.multiplication-button {
+    cursor: pointer;
+    color: rgb(231, 164, 18);
+    font-size: 1.4em;
+}
+
 
