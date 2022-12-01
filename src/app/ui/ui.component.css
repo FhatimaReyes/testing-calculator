@@ -29,8 +29,16 @@
     cursor: pointer;
     color: blue;
 }
+
 .substraction-button {
     cursor: pointer;
     color: green;
 }
+
+.division-button {
+    cursor: pointer;
+    color: rgba(190, 16, 123, 0.932);
+    font-size: 1.4em;
+}
+
 
