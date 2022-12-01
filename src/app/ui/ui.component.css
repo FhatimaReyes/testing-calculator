@@ -59,4 +59,9 @@
     font-size: 1.4em;
 }
 
+.sqrt-button {
+    cursor: pointer;
+    color: rgb(165, 182, 15);
+    font-size: 1.5em;
+}
 
