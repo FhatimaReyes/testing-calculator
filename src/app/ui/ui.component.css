@@ -29,8 +29,39 @@
     cursor: pointer;
     color: blue;
 }
+
 .substraction-button {
     cursor: pointer;
     color: green;
+}
+
+.division-button {
+    cursor: pointer;
+    color: rgba(190, 16, 123, 0.932);
+    font-size: 1.4em;
+}
+
+.multiplication-button {
+    cursor: pointer;
+    color: rgb(231, 164, 18);
+    font-size: 1.4em;
+}
+
+.exp-button {
+    cursor: pointer;
+    color: rgb(49, 155, 137);
+    font-size: 1.4em;
+}
+
+.sqr-button {
+    cursor: pointer;
+    color: rgb(216, 11, 11);
+    font-size: 1.4em;
+}
+
+.sqrt-button {
+    cursor: pointer;
+    color: rgb(165, 182, 15);
+    font-size: 1.5em;
 }
 
